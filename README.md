@@ -6,6 +6,30 @@ Cartes thématiques du Tchad réalisées sous **QGIS** à partir de données ouv
 
 📄 [Télécharger le portfolio complet (PDF)](Portfolio_SIG_Mahamat_Adam_Ibrahim.pdf)
 
+## Nouveau : rapport de 12 études de cas (octobre 2026)
+
+📘 [**Cartographier pour décider** : télécharger le rapport (PDF, 15 pages)](Rapport_etudes_de_cas_Mahamat_Adam_Ibrahim.pdf)
+
+Chaque étude part d'une question posée par un projet (où placer une clinique mobile, quand ouvrir les pare-feux, à quelle profondeur forer), puis donne les données et la méthode, ce que montre la carte avec des chiffres, des recommandations et les limites de l'analyse.
+
+[<img src="etudes_de_cas/page_04.jpg" width="400">](etudes_de_cas/page_04.jpg) [<img src="etudes_de_cas/page_11.jpg" width="400">](etudes_de_cas/page_11.jpg)
+
+| N° | Question | Zone | Échelle | Technique |
+|---|---|---|---|---|
+| 1 | [Où se trouvent les sites d'accueil des réfugiés soudanais autour du Ouaddaï ?](etudes_de_cas/page_03.jpg) | Ouaddaï et frontière soudanaise | Province | Fusion de sources, dédoublonnage |
+| 2 | [Qui vit à plus de 4 heures de marche d'un centre de santé au Guéra ?](etudes_de_cas/page_04.jpg) | Guéra | Province | Coût cumulé, croisement population |
+| 3 | [La sécurité alimentaire du Batha s'est-elle dégradée en dix ans ?](etudes_de_cas/page_05.jpg) | Batha | Départements | Moyenne de 25 cycles, comparaison |
+| 4 | [Le paludisme des enfants recule-t-il au Chari-Baguirmi ?](etudes_de_cas/page_06.jpg) | Chari-Baguirmi | Province | Raster modélisé, comparaison de périodes |
+| 5 | [Le Hadjer-Lamis se réchauffe-t-il, et que prévoit la projection pour 2036 ?](etudes_de_cas/page_07.jpg) | Hadjer-Lamis | Province | Réanalyse et projection CMIP6 |
+| 6 | [La végétation du Kanem en fin de saison des pluies progresse-t-elle ?](etudes_de_cas/page_08.jpg) | Kanem | Province | Séries MODIS, comparaison |
+| 7 | [À quelle profondeur faut-il forer pour trouver l'eau au Borkou ?](etudes_de_cas/page_09.jpg) | Borkou | Province | Reclassement raster, parts du territoire |
+| 8 | [Quand et où brûle la brousse au Salamat ?](etudes_de_cas/page_10.jpg) | Salamat | Province | Grille hexagonale, seuils de Jenks |
+| 9 | [Comment le sol est-il occupé autour d'Abéché ? Une classification Sentinel-2](etudes_de_cas/page_11.jpg) | Abéché (3 600 km²) | Ville et périphérie | Sentinel-2, forêt aléatoire |
+| 10 | [Où vivent les déplacés de la province du Lac ?](etudes_de_cas/page_12.jpg) | Lac | Départements | Typologie de sites, localisation |
+| 11 | [Comment la pluie se répartit-elle au Tchad, du désert à la savane ?](etudes_de_cas/page_13.jpg) | Tchad | Pays | CHIRPS, test de tendance |
+| 12 | [Dans quels départements le régime des pluies a-t-il changé depuis 1991 ?](etudes_de_cas/page_14.jpg) | Tchad | Départements | Test de Pettitt sur séries CHIRPS |
+
+
 ## Analyses
 
 **Réfugiés au Ouaddaï** ([carte](maps/01_ouaddai_refugies.jpg)) : 28 sites dans la zone, dont 11 dans la province, alignés le long des routes d'Adré, de Farchana et de Gaga, à quelques dizaines de kilomètres des camps de déplacés du Soudan (Durti, Abu Zer).
